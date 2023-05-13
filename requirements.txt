@@ -1,7 +1,9 @@
-flask
-pandas
-numpy
-scikit-learn
 ipykernel
+numpy
+pandas
 seaborn
+scikit-learn
 xgboost
+imblearn
+Flask
+-e .
